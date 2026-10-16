@@ -7,7 +7,7 @@ An exploratory data analysis project investigating the factors associated with m
 [**Explore the Interactive Dashboard →**](https://public.tableau.com/views/MovieProfitDashboard/MovieProfitDashboard?:language=en-US&publish=yes)
 
 ### 📄 Case Study
-[**Read the Full Case Study (PDF) →**](case-study.pdf)
+[**Read the Full Case Study **] https://docs.google.com/document/d/1AZr6YO3vQweqZP06InPsPxPkfvJDEJ3cX1BkDx0eWTg/edit?usp=sharing
 
 ### 🛠️ Tools Used
 - Microsoft Excel — data cleaning and Pivot Tables
